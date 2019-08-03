@@ -1,0 +1,2 @@
+# Completion_production_Sho
+朝会のチーム間共有ツールの作成
